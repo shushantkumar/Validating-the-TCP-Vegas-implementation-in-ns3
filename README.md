@@ -15,3 +15,9 @@ C and C++
  
 ## Mentors
 Apoorva Bhargava, Mohit P. Tahiliani
+
+### References
+* DCE: https://www.nsnam.org/overview/projects/direct-code-execution/
+* Linux Kernel Code: https://elixir.bootlin.com/linux/v4.4/source/net/ipv4/tcp_vegas.c
+* TCP Vegas: https://ieeexplore.ieee.org/abstract/document/464716/
+* ns-3 code for TCP Vegas (Path: ns-3.xx/src/internet/model/tcp-vegas.{h, cc})
