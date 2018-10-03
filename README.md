@@ -1,2 +1,17 @@
 # TCP-Vegas-ns3-dce
 ​Validate the ns-3 implementation of TCP Vegas
+
+## Description
+### Brief
+TCP Vegas is a delay based congestion control algorithm which measures per packet RTT to infer the state of congestion in the network. It uses Additive Increase Additive Decrease (AIAD) algorithm to adjust its cwnd. In this project, the aim is to validate ns-3 TCP Vegas implementation by comparing the results obtained from it to those obtained by simulating Linux TCP Vegas
+
+### Required experience
+C and C++
+
+## Members
+ 1. Hardik Rana - 16CO138
+ 2. Shushant Kumamr - 16CO143
+ 3. Anmol Horo - 16CO206
+ 
+## Mentors
+Apoorva Bhargava, Mohit P. Tahiliani
