@@ -1,4 +1,4 @@
-# TCP-Vegas-ns3-dce
+# Validating-the-TCP-Vegas-implementation-in-ns3 
 ​Validate the ns-3 implementation of TCP Vegas
 
 ## Description
