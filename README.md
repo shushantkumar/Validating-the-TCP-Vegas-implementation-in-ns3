@@ -10,7 +10,7 @@ C and C++
 
 ## Members
  1. Hardik Rana - 16CO138
- 2. Shushant Kumamr - 16CO143
+ 2. Shushant Kumar - 16CO143
  3. Anmol Horo - 16CO206
  
 ## Mentors
