@@ -1,4 +1,4 @@
-# Brief About TCP Vegas
+#Brief About TCP Vegas
 Tcp Vegas is actually a modification of TCP reno [all changes are only in sending side],but it provides 37 to 71% better throughput with less losses compared to TCP reno.In TCP reno RTT is computed using coarse-grained timer but in TCP vegas RTT is computed using fine-grained timer.
 
 Three techniques that Vegas employs to increase throughput and decrease losses
