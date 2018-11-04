@@ -21,3 +21,4 @@ Apoorva Bhargava, Mohit P. Tahiliani
 * Linux Kernel Code: https://elixir.bootlin.com/linux/v4.4/source/net/ipv4/tcp_vegas.c
 * TCP Vegas: https://ieeexplore.ieee.org/abstract/document/464716/
 * ns-3 code for TCP Vegas (Path: ns-3.xx/src/internet/model/tcp-vegas.{h, cc})
+* refer to [Wiki](https://github.com/shushantkumar/Validating-the-TCP-Vegas-implementation-in-ns3/wiki) for more details
